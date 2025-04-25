@@ -1,8 +1,7 @@
 # 001\_Adquisición
 
 Esta carpeta contiene las prácticas enfocadas en la etapa de adquisición de imágenes. 
-Los notebooks de Google Colaboratory (`.ipynb`) exploran técnicas como trabajar con una imagen en un drive, tomar directmanete 
-una imagen desde Internet, etc.
+Los notebooks de Google Colaboratory (`.ipynb`) exploran técnicas como trabajar con una imagen obtenida de un drive, tomar directmanete una imagen desde Internet, etc.
 Las imágenes locales utilizadas se incluyen en esta carpeta o en `998_Imagenes Locales`.
 Las de la web, fueron obtenidas desde estos enlaces:
 
