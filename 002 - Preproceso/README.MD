@@ -1,4 +1,4 @@
-# 002\_PreprocesO
+# 002\_Preproceso
 
 Esta carpeta contiene las prácticas enfocadas en la etapa de preprocesamiento de imágenes. 
 Los notebooks de Google Colaboratory (`.ipynb`) exploran técnicas como el análisis de histogramas (global y por canales), 
