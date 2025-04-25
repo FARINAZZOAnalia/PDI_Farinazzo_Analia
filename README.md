@@ -27,6 +27,7 @@ Las dependencias comunes (ya preinstaladas en Colab) incluyen:
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
+```
 
 Nota:  Puede que cada práctica requiera librerías adicionales, las cuales se suelen instalar directamente en el notebook de Colab si es necesario.
 
