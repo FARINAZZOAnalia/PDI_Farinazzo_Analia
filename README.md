@@ -28,6 +28,10 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
+Nota:  Puede que cada práctica requiera librerías adicionales, las cuales se suelen instalar directamente en el notebook de Colab si es necesario.
+
+Este repositorio documenta el aprendizaje y la aplicación de las técnicas de procesamiento de imágenes vistas en la materia, utilizando el entorno de desarrollo de Google Colaboratory.
+
 #Contacto:
 Analía Farinazzo
 Institucional:  mailto:  24994389@ifts24.edu.ar
