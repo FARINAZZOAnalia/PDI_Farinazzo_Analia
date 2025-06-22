@@ -1,5 +1,5 @@
-#Procesamiento Digital de Imágenes - 2025
-#Estudiante: Farinazzo, Analía
+# Procesamiento Digital de Imágenes - 2025
+# Estudiante: Farinazzo, Analía
 
 Este repositorio contiene los trabajos prácticos (TPs) realizados para la materia **Técnicas de Procesamiento de Imágenes**. Todos los programas se desarrollaron utilizando **Google Colaboratory (Colab)**.
 
