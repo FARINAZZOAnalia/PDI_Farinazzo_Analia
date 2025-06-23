@@ -28,4 +28,4 @@ En esta carpeta se incluyen los siguientes recursos:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/FARINAZZOAnalia/TPDdI-Practicas.git
+   git clone https://github.com/FARINAZZOAnalia/PDI_Farinazzo_Analia.git
