@@ -1,20 +1,23 @@
 # Procesamiento Digital de Imágenes - 2025
 # Estudiante: Farinazzo, Analía
 
+## Breve Descripción de la Materia:
+El Procesamiento Digital de Imágenes (PDI) es una disciplina fundamental dentro del campo del Análisis de Datos e IA, que se enfoca en la manipulación y análisis de imágenes digitales para extraer información útil y automatizar tareas visuales. Las técnicas de PDI son esenciales para una amplia gama de aplicaciones, desde la visión por computadora hasta el diagnóstico médico.
+
 Este repositorio contiene los trabajos prácticos (TPs) realizados para la materia **Técnicas de Procesamiento de Imágenes**. Todos los programas se desarrollaron utilizando **Google Colaboratory (Colab)**.
 
 ## Contenido
 
 El repositorio está organizado en carpetas que corresponden a las diferentes etapas del procesamiento de imágenes exploradas, así como recursos adicionales.
 
-* **001\_Adquisicion:** Contiene los trabajos prácticos relacionados con la adquisición de imágenes desde diversas fuentes. Los programas son notebooks de Colab (`.ipynb`).
-* **002\_Preprocesamiento:** Incluye las prácticas enfocadas en la etapa de preprocesamiento de imágenes cómo análisis de canales, histogramas, etc. Los programas son notebooks de Colab (`.ipynb`).
-* **003\_MuestreoEspacial:** Alberga los trabajos prácticos sobre el muestreo espacial y la reducción de la resolución de las imágenes. Los programas son notebooks de Colab (`.ipynb`).
-* **004\_Cuantizacion:** Contiene las prácticas relacionadas con la cuantización de los niveles de intensidad o colores en las imágenes. Los programas son notebooks de Colab (`.ipynb`).
-* **005\_Segmentación:** Alberga los trabajos prácticos sobre Segmentación. Los programas son notebooks de Colab (`.ipynb`). *
-* **997\_TP\_Integrador:** Contiene el Trabajo Práctico integrador presentado para la materia. Los programas son notebooks de Colab (`.ipynb`).
-* **998\_Imagenes:** Almacena las copias de las imágenes utilizadas en los diferentes trabajos prácticos.
-* **999\_Ejemplos\_Clase:** Incluye los ejemplos de código y materiales proporcionados por el profesor durante las clases. Pueden ser notebooks de Colab (`.ipynb`) u otros formatos.
+* **001 - Adquisicion:** Contiene los trabajos prácticos relacionados con la adquisición de imágenes desde diversas fuentes. Los programas son notebooks de Colab (`.ipynb`).
+* **002 - Preproceso:** Incluye las prácticas enfocadas en la etapa de preprocesamiento de imágenes cómo análisis de canales, histogramas, etc. Los programas son notebooks de Colab (`.ipynb`).
+* **003 - Muestreo Espacial:** Alberga los trabajos prácticos sobre el muestreo espacial y la reducción de la resolución de las imágenes. Los programas son notebooks de Colab (`.ipynb`).
+* **004 - Cuantizacion:** Contiene las prácticas relacionadas con la cuantización de los niveles de intensidad o colores en las imágenes. Los programas son notebooks de Colab (`.ipynb`).
+* **005 - Segmentación:** Alberga los trabajos prácticos sobre Segmentación. Los programas son notebooks de Colab (`.ipynb`). *
+* **997 - Entrega TP Classroom:** Contiene el Trabajo Práctico integrador presentado para la materia. Los programas son notebooks de Colab (`.ipynb`).
+* **998 - Imagenes Locales:** Almacena las copias de las imágenes utilizadas en los diferentes trabajos prácticos.
+* **999 Ejemplos Profesor:** Incluye los ejemplos de código y materiales proporcionados por el profesor durante las clases. Pueden ser notebooks de Colab (`.ipynb`) u otros formatos.
 
 ## Instrucciones
 
