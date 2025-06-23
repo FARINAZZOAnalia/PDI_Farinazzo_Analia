@@ -15,6 +15,10 @@ El repositorio está organizado en carpetas que corresponden a las diferentes et
 * **003 - Muestreo Espacial:** Alberga los trabajos prácticos sobre el muestreo espacial y la reducción de la resolución de las imágenes. Los programas son notebooks de Colab (`.ipynb`).
 * **004 - Cuantizacion:** Contiene las prácticas relacionadas con la cuantización de los niveles de intensidad o colores en las imágenes. Los programas son notebooks de Colab (`.ipynb`).
 * **005 - Segmentación:** Alberga los trabajos prácticos sobre Segmentación. Los programas son notebooks de Colab (`.ipynb`). *
+* **006-Lab02:**  Incluye los trabajos prácticos correspondientes al segundo laboratorio de la materia. Los programas son notebooks de Colab (.ipynb) y abordan ejercicios específicos planteados en clase para afianzar conceptos y técnicas de procesamiento digital de imágenes vistos hasta ese momento.
+* **007-Lab 03 - Landmarks:**  
+Contiene los trabajos prácticos del tercer laboratorio, enfocados en la extracción y análisis de puntos característicos ("landmarks") en imágenes. Los programas son notebooks de Colab (.ipynb) y exploran métodos automáticos y manuales para la identificación de landmarks, útiles en aplicaciones de reconocimiento y análisis morfológico.
+
 * **997 - Entrega TP Classroom:** Contiene el Trabajo Práctico integrador presentado para la materia. Los programas son notebooks de Colab (`.ipynb`).
 * **998 - Imagenes Locales:** Almacena las copias de las imágenes utilizadas en los diferentes trabajos prácticos.
 * **999 Ejemplos Profesor:** Incluye los ejemplos de código y materiales proporcionados por el profesor durante las clases. Pueden ser notebooks de Colab (`.ipynb`) u otros formatos.
