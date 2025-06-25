@@ -18,6 +18,14 @@ El repositorio está organizado en carpetas que corresponden a las diferentes et
 * **006-Lab02:**  Incluye los trabajos prácticos correspondientes al segundo laboratorio de la materia. Los programas son notebooks de Colab (.ipynb) y abordan ejercicios específicos planteados en clase para afianzar conceptos y técnicas de procesamiento digital de imágenes vistos hasta ese momento.
 * **007-Lab 03 - Landmarks:**  
 Contiene los trabajos prácticos del tercer laboratorio, enfocados en la extracción y análisis de puntos característicos ("landmarks") en imágenes. Los programas son notebooks de Colab (.ipynb) y exploran métodos automáticos y manuales para la identificación de landmarks, útiles en aplicaciones de reconocimiento y análisis morfológico.
+* **008 - Redes Neuronales**: Modelos básicos de redes neuronales.
+* **009 - Redes en CV**: Redes neuronales aplicadas a visión computacional.
+* **010 - Transfer Learning**: Aplicaciones de transferencia de aprendizaje.
+* **011 - Stable Diffusion**: [Ver README](011%20-%20Stable%20Diffusion/README.md)
+* **012 - Gradio y más**: [Ver README](012%20-%20Gradio%20y%20más/README.md)
+* **013 - VLM**: [Ver README](013%20-%20VLM/README.md)
+* **014 - Gobernanza y Más**: [Ver README](014%20-%20Gobernanza%20y%20Más/README.md)
+* **015 - PDI-TP_Final**: [Ver README](015%20-%20PDI-TP_Final/README.md)
 
 * **997 - Entrega TP Classroom:** Contiene el Trabajo Práctico integrador presentado para la materia. Los programas son notebooks de Colab (`.ipynb`).
 * **998 - Imagenes Locales:** Almacena las copias de las imágenes utilizadas en los diferentes trabajos prácticos.
