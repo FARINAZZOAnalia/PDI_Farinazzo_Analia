@@ -12,6 +12,6 @@ Material correspondiente al Trabajo Práctico Final del curso de PDI.
 
 Desarrollo y entrega del proyecto integrador final.
 
-Año: 2025
-Alumnos: Capó, Farinazzo. Salerno.
-Tema:  RECONOCIMIENTO DEL ESTADO DE SEMÁFOROS EN IMAGENES URBANAS
+# Año: 2025
+# Alumnos: Capó, Farinazzo. Salerno.
+# Tema:  RECONOCIMIENTO DEL ESTADO DE SEMÁFOROS EN IMAGENES URBANAS
